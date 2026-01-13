@@ -44,7 +44,7 @@ graph TD
 3.  **Set up your API Key**:
     Ensure you have your `GOOGLE_API_KEY` ready. You may need to set it as an environment variable or input it when running the notebook.
 
-### Usage
+## Usage
 1.  Open the notebook:
     ```bash
     jupyter notebook intelligent-health-record-assistant.ipynb
